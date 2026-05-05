@@ -265,17 +265,6 @@
   }
   .google-btn:hover { background: var(--forest2); transform: translateY(-1px); }
   .google-btn svg { flex-shrink: 0; }
-  .calscape-btn {
-    display: inline-flex; align-items: center; gap: 6px;
-    margin-top: 4px; padding: 7px 14px;
-    background: #2d7a3a; color: #fff;
-    border-radius: 8px; font-size: 12px; font-weight: 600;
-    text-decoration: none; letter-spacing: .2px;
-    transition: background .15s, transform .1s;
-    width: fit-content;
-  }
-  .calscape-btn:hover { background: #1f5a29; transform: translateY(-1px); }
-  .calscape-btn svg { flex-shrink: 0; }
 
   /* ── Footer ────────────────────────────── */
   footer {
@@ -414,18 +403,6 @@ function buildCard(p) {
       </svg>
       Search on Google
     </a>` : "";
-  const calscapeHtml = (status === "Native" && sciName) ? (() => {
-    const sci = sciName.replace(/'[^']*'/g, "").trim().replace(/\s+(ssp\.|var\.|subsp\.)\s+\S+/, "").trim();
-    const parts = sci.split(" ");
-    const slug = parts.length >= 2 ? parts[0] + "-" + parts[1] : parts[0];
-    const url = "https://calscape.org/plant/" + slug;
-    return `<a class="calscape-btn" href="${url}" target="_blank" rel="noopener">
-      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M12 2a7 7 0 0 1 7 7c0 5-7 13-7 13S5 14 5 9a7 7 0 0 1 7-7z"/><circle cx="12" cy="9" r="2.5"/>
-      </svg>
-      Search on Calscape
-    </a>`;
-  })() : "";
 
   return `
   <div class="card">
@@ -447,7 +424,6 @@ function buildCard(p) {
       ${locHtml}
       ${notesHtml}
       ${linkHtml}
-      ${calscapeHtml}
     </div>
   </div>`;
 }
