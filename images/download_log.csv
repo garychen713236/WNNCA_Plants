@@ -1,0 +1,374 @@
+Plant Name,Image File Name,Source URL,Status
+California Black Walnut,California_Black_Walnut.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/California_Blackwalnut.jpg/960px-California_Blackwalnut.jpg,Downloaded
+Common Yarrow,Common_Yarrow.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Achillea_millefolium_%28bright%29.jpg/960px-Achillea_millefolium_%28bright%29.jpg,Downloaded
+Showy Penstemon,Showy_Penstemon.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Penstemon_digitalis.jpg/960px-Penstemon_digitalis.jpg,Downloaded
+Narrowleaf Milkweed,Narrowleaf_Milkweed.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Asclepias_fascicularis.jpg/960px-Asclepias_fascicularis.jpg,Downloaded
+White Sage,White_Sage.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Salvia_apiana_1.jpg/960px-Salvia_apiana_1.jpg,Downloaded
+Hummingbird Sage,Hummingbird_Sage.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/526697773/large.jpg,Downloaded
+California Wild Grape,California_Wild_Grape.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Vitis_californica_with_grapes.jpg/960px-Vitis_californica_with_grapes.jpg,Downloaded
+Stinging Nettle,Stinging_Nettle.jpg,https://upload.wikimedia.org/wikipedia/commons/6/6f/Fen_nettle_%28Urtica_dioica_ssp._galeopsifolia%29_-_geograph.org.uk_-_5423125.jpg,Downloaded
+Catalina Cherry,Catalina_Cherry.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Cherry_season_%2848216568227%29.jpg/960px-Cherry_season_%2848216568227%29.jpg,Downloaded
+Coast Live Oak,Coast_Live_Oak.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Quercus_agrifolia-2.jpg/960px-Quercus_agrifolia-2.jpg,Downloaded
+Coyote Brush,Coyote_Brush.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Baccharis_pilularis_kz04.jpg/960px-Baccharis_pilularis_kz04.jpg,Downloaded
+Prickly Pear Cactus,Prickly_Pear_Cactus.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Opuntia_littoralis_var_vaseyi_4.jpg/960px-Opuntia_littoralis_var_vaseyi_4.jpg,Downloaded
+Coastal Prickly Pear,Coastal_Prickly_Pear.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Opuntia_littoralis_var_vaseyi_4.jpg/960px-Opuntia_littoralis_var_vaseyi_4.jpg,Downloaded
+Cholla,Cholla.jpg,https://upload.wikimedia.org/wikipedia/commons/d/d7/Cylindropuntia_kleiniae.jpg,Downloaded
+California Coffeeberry,California_Coffeeberry.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/CoffeeBerryFruit.jpg/960px-CoffeeBerryFruit.jpg,Downloaded
+Golden Currant,Golden_Currant.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ribes_aureum_var_aureum_4.jpg/960px-Ribes_aureum_var_aureum_4.jpg,Downloaded
+Mulefat,Mulefat.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Baccharis_salicifolia_1.jpg/960px-Baccharis_salicifolia_1.jpg,Downloaded
+Blue Elderberry,Blue_Elderberry.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Sambucus_nigra_004.jpg/960px-Sambucus_nigra_004.jpg,Downloaded
+California Buckwheat,California_Buckwheat.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eriogonum_fasciculatum_5.jpg/960px-Eriogonum_fasciculatum_5.jpg,Downloaded
+Black Mustard,Black_Mustard.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mustard_plant_flower.jpg/960px-Mustard_plant_flower.jpg,Downloaded
+Miners Lettuce,Miners_Lettuce.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Claytonia_perfoliata_6641.JPG/960px-Claytonia_perfoliata_6641.JPG,Downloaded
+Desert Dandelion,Desert_Dandelion.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DandelionFlower.jpg/960px-DandelionFlower.jpg,Downloaded
+Common Dandelion,Common_Dandelion.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DandelionFlower.jpg/960px-DandelionFlower.jpg,Downloaded
+Common Sowthistle,Common_Sowthistle.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Sonchus_February_2008-1.jpg/960px-Sonchus_February_2008-1.jpg,Downloaded
+Common Elderberry,Common_Elderberry.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Sambucus_nigra_004.jpg/960px-Sambucus_nigra_004.jpg,Downloaded
+Desert Sunflower,Desert_Sunflower.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/960px-Sunflower_sky_backdrop.jpg,Downloaded
+Sticky Monkeyflower,Sticky_Monkeyflower.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/29807440/large.jpg,Downloaded
+Mediterranean Sage,Mediterranean_Sage.jpg,https://upload.wikimedia.org/wikipedia/commons/5/5a/Salvia_officinalis0.jpg,Downloaded
+Sun Cup,Sun_Cup.jpg,https://upload.wikimedia.org/wikipedia/commons/1/12/N.macrophylla_x_lowii.jpg,Downloaded
+California Sunflower,California_Sunflower.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/960px-Sunflower_sky_backdrop.jpg,Downloaded
+Chaparral Nightshade,Chaparral_Nightshade.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Solanum_xanti1DawnEndico.jpg/960px-Solanum_xanti1DawnEndico.jpg,Downloaded
+California Wild Rose,California_Wild_Rose.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rosa_californica_2004-07-20.jpg/960px-Rosa_californica_2004-07-20.jpg,Downloaded
+Fuchsia-flowered Gooseberry,Fuchsia_flowered_Gooseberry.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/369881879/large.jpg,Downloaded
+Laurel Sumac,Laurel_Sumac.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Malosma_laurina_1.jpg/960px-Malosma_laurina_1.jpg,Downloaded
+Matilija Poppy,Matilija_Poppy.jpg,https://upload.wikimedia.org/wikipedia/commons/9/99/Matilija_poppy_closeup.jpg,Downloaded
+Western Sycamore,Western_Sycamore.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/38512081/large.jpg,Downloaded
+Chinese Holly,Chinese_Holly.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ilex-aquifolium_%28Europaeische_Stechpalme-1%29.jpg/960px-Ilex-aquifolium_%28Europaeische_Stechpalme-1%29.jpg,Downloaded
+Black Sage,Black_Sage.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/352364687/large.jpg,Downloaded
+Purple Sage,Purple_Sage.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Salvia_dorrii_4.jpg/960px-Salvia_dorrii_4.jpg,Downloaded
+Bladder Sage,Bladder_Sage.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Salazaria_mexicana_4.jpg/960px-Salazaria_mexicana_4.jpg,Downloaded
+California Sagebrush,California_Sagebrush.jpg,https://upload.wikimedia.org/wikipedia/commons/d/df/Sagebrushsjc.jpg,Downloaded
+California Lilac,California_Lilac.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Lilac_Flower%26Leaves%2C_SC%2C_Vic%2C_13.10.2007.jpg/960px-Lilac_Flower%26Leaves%2C_SC%2C_Vic%2C_13.10.2007.jpg,Downloaded
+Western Columbine,Western_Columbine.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Wald-Akelei.JPG/960px-Wald-Akelei.JPG,Downloaded
+Scarlet Columbine,Scarlet_Columbine.jpg,,FAILED
+Penstemon,Penstemon.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Penstemon_digitalis.jpg/960px-Penstemon_digitalis.jpg,Downloaded
+Western Redbud,Western_Redbud.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/RedbudOhio02.jpg/960px-RedbudOhio02.jpg,Downloaded
+Coastal Sunflower,Coastal_Sunflower.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/960px-Sunflower_sky_backdrop.jpg,Downloaded
+Coral Canyon California Fuchsia,Coral_Canyon_California_Fuchsia.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mentzelialindleyi.jpg/960px-Mentzelialindleyi.jpg,Downloaded
+Western Mahogany,Western_Mahogany.jpg,https://upload.wikimedia.org/wikipedia/commons/a/af/Swietenia_macrophylla_%2830680883066%29.jpg,Downloaded
+Sugar Bush,Sugar_Bush.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Peninsula_Sandstone_Fynbos_-_KingProtea_-_Table_Mountain.JPG/960px-Peninsula_Sandstone_Fynbos_-_KingProtea_-_Table_Mountain.JPG,Downloaded
+California Poppy,California_Poppy.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kaldari_Eschscholzia_californica_01.jpg/960px-Kaldari_Eschscholzia_californica_01.jpg,Downloaded
+Poison Oak,Poison_Oak.jpg,https://static.inaturalist.org/photos/14897857/large.jpeg,Downloaded
+Fremont Cottonwood,Fremont_Cottonwood.jpg,https://upload.wikimedia.org/wikipedia/commons/3/3b/Cottonwood_at_Zion_Lodge.jpg,Downloaded
+Purple Nightshade,Purple_Nightshade.jpg,https://upload.wikimedia.org/wikipedia/commons/7/7e/Solanum_nigrum_flower.jpg,Downloaded
+Wild Radish,Wild_Radish.jpg,https://upload.wikimedia.org/wikipedia/commons/7/77/Raphanus_raphanistrum_-_Deutschlands_flora_in_abbildungen_nach_der_natur_-_vol._6_-_t._40_-_clean.jpg,Downloaded
+Bermuda Buttercup,Bermuda_Buttercup.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Oxalis-pes-caprae-16c-Zachi-Evenor.jpg/960px-Oxalis-pes-caprae-16c-Zachi-Evenor.jpg,Downloaded
+Golden Yarrow,Golden_Yarrow.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Eriophyllum_confertiflorum_2004-04-07.jpg/960px-Eriophyllum_confertiflorum_2004-04-07.jpg,Downloaded
+Showy Milkweed,Showy_Milkweed.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Danaus_plexippus_on_Asclepias_incarnata_4999.jpg/960px-Danaus_plexippus_on_Asclepias_incarnata_4999.jpg,Downloaded
+California Barberry,California_Barberry.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Mahonia_aquifolium.jpg/960px-Mahonia_aquifolium.jpg,Downloaded
+Desert Willow,Desert_Willow.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Chilopsis_linearis_flower_2.jpg/960px-Chilopsis_linearis_flower_2.jpg,Downloaded
+California Buttercup,California_Buttercup.jpg,https://upload.wikimedia.org/wikipedia/commons/d/d9/Ranunculus_eschscholtzii.jpg,Downloaded
+Prickly Sowthistle,Prickly_Sowthistle.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sonchus_asper2.jpg/960px-Sonchus_asper2.jpg,Downloaded
+Prickly Lettuce,Prickly_Lettuce.jpg,https://upload.wikimedia.org/wikipedia/commons/a/a7/Lactucaserriola2web.jpg,Downloaded
+Prickly Poppy,Prickly_Poppy.jpg,https://upload.wikimedia.org/wikipedia/commons/3/3f/Argemone.jpg,Downloaded
+California Hedge Nettle,California_Hedge_Nettle.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/25239171/large.jpg,Downloaded
+Toyon,Toyon.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Heteromeles_arbutifolia_1.jpg/960px-Heteromeles_arbutifolia_1.jpg,Downloaded
+Chamise,Chamise.jpg,https://upload.wikimedia.org/wikipedia/commons/b/b7/Adenostoma_fasciculatum.jpg,Downloaded
+Common Manzanita,Common_Manzanita.jpg,https://upload.wikimedia.org/wikipedia/commons/d/df/ManzanitaShrubBranches_wb.jpg,Downloaded
+Lemonade Berry,Lemonade_Berry.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lemonadeberry2.jpg/960px-Lemonadeberry2.jpg,Downloaded
+Flannel Bush,Flannel_Bush.jpg,https://upload.wikimedia.org/wikipedia/commons/6/64/Fremontodendron_Ken_Taylor.jpg,Downloaded
+Deerweed,Deerweed.jpg,https://upload.wikimedia.org/wikipedia/commons/7/7c/Lotus_scoparius.jpg,Downloaded
+Woolly Blue Curls,Woolly_Blue_Curls.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Trichostema_lanatum_4.jpg/960px-Trichostema_lanatum_4.jpg,Downloaded
+Bush Lupine,Bush_Lupine.jpg,https://upload.wikimedia.org/wikipedia/commons/b/bb/Arboreus_infl.jpg,Downloaded
+Hollyleaf Redberry,Hollyleaf_Redberry.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Rhamnus_ilicifolia.jpg/960px-Rhamnus_ilicifolia.jpg,Downloaded
+Chaparral Clematis,Chaparral_Clematis.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Clematis_lasiantha.jpg/960px-Clematis_lasiantha.jpg,Downloaded
+Wild Cucumber,Wild_Cucumber.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/4666634/large.jpg,Downloaded
+Blue Blossom Ceanothus,Blue_Blossom_Ceanothus.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ceanothus_thyrsiflorus.jpg/960px-Ceanothus_thyrsiflorus.jpg,Downloaded
+Bigberry Manzanita,Bigberry_Manzanita.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Arctostaphylos_glauca_8S6A0992.jpg/960px-Arctostaphylos_glauca_8S6A0992.jpg,Downloaded
+Chaparral Whitethorn,Chaparral_Whitethorn.jpg,https://upload.wikimedia.org/wikipedia/commons/8/8e/Ceanothus_leucodermis_01.jpg,Downloaded
+Our Lord's Candle,Our_Lord_s_Candle.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Yucca_whipplei_2005.jpg/960px-Yucca_whipplei_2005.jpg,Downloaded
+Mojave Yucca,Mojave_Yucca.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Yucca_schidigera_blooming.jpg/960px-Yucca_schidigera_blooming.jpg,Downloaded
+Beavertail Cactus,Beavertail_Cactus.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Wild_Opuntia_basilaris.jpg/960px-Wild_Opuntia_basilaris.jpg,Downloaded
+Brittlebush,Brittlebush.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Brittlebush_stands_out_on_this_hillside.jpg/960px-Brittlebush_stands_out_on_this_hillside.jpg,Downloaded
+Creosote Bush,Creosote_Bush.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Larrea_tridentata_Furnace_Creek.jpg/960px-Larrea_tridentata_Furnace_Creek.jpg,Downloaded
+Ocotillo,Ocotillo.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ocotillo_GB.jpg/960px-Ocotillo_GB.jpg,Downloaded
+Desert Agave,Desert_Agave.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Agave_lechuguilla.jpg/960px-Agave_lechuguilla.jpg,Downloaded
+Chaparral Pea,Chaparral_Pea.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Chaparral1.jpg/960px-Chaparral1.jpg,Downloaded
+Mountain Mahogany,Mountain_Mahogany.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Cercocarpus_intricatus_12.jpg/960px-Cercocarpus_intricatus_12.jpg,Downloaded
+Silk Tassel Bush,Silk_Tassel_Bush.jpg,https://upload.wikimedia.org/wikipedia/commons/c/c5/Garrya_elliptica.jpg,Downloaded
+Hollyleaf Cherry,Hollyleaf_Cherry.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Prunus_ilicifolia_ne1.jpg/960px-Prunus_ilicifolia_ne1.jpg,Downloaded
+Scalebroom,Scalebroom.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Lepidospartum_latisquamum_7.jpg/960px-Lepidospartum_latisquamum_7.jpg,Downloaded
+Bladderpod,Bladderpod.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/13544465/large.jpeg,Downloaded
+Blue Dicks,Blue_Dicks.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Dichelostemma_capitatum_2003-02-04.jpg/960px-Dichelostemma_capitatum_2003-02-04.jpg,Downloaded
+Superb Mariposa Lily,Superb_Mariposa_Lily.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sego_lily_cm.jpg/960px-Sego_lily_cm.jpg,Downloaded
+Yellow Mariposa Lily,Yellow_Mariposa_Lily.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/3878/large.jpg,Downloaded
+Ithuriel's Spear,Ithuriel_s_Spear.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Triteleia_laxa_flower_in_bloom.jpg/960px-Triteleia_laxa_flower_in_bloom.jpg,Downloaded
+White Globe Lily,White_Globe_Lily.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Calochortus_albus_flowers.jpg/960px-Calochortus_albus_flowers.jpg,Downloaded
+Shooting Star,Shooting_Star.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Dodecatheon_meadia_01.JPG/960px-Dodecatheon_meadia_01.JPG,Downloaded
+Indian Paintbrush,Indian_Paintbrush.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/42374889/large.jpeg,Downloaded
+Owl's Clover,Owl_s_Clover.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/182011437/large.jpg,Downloaded
+Tidy Tips,Tidy_Tips.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Layia_platyglossa_Tidy-Tips%21_%28hortulus%29_001.jpg/960px-Layia_platyglossa_Tidy-Tips%21_%28hortulus%29_001.jpg,Downloaded
+Baby Blue Eyes,Baby_Blue_Eyes.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Nemophila_menziesii_7794.JPG/960px-Nemophila_menziesii_7794.JPG,Downloaded
+Farewell to Spring,Farewell_to_Spring.jpg,https://upload.wikimedia.org/wikipedia/commons/b/b1/Clarkia_amoena.jpg,Downloaded
+Globe Gilia,Globe_Gilia.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Gilia_capitata.JPG/960px-Gilia_capitata.JPG,Downloaded
+Chia,Chia.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Salvia_hispanica_kz2.jpg/960px-Salvia_hispanica_kz2.jpg,Downloaded
+California Milkmaids,California_Milkmaids.jpg,,FAILED
+Miniature Lupine,Miniature_Lupine.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Lupinus_polyphyllus_526960203.jpg/960px-Lupinus_polyphyllus_526960203.jpg,Downloaded
+Sky Lupine,Sky_Lupine.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Lupinus_polyphyllus_526960203.jpg/960px-Lupinus_polyphyllus_526960203.jpg,Downloaded
+Red Maids,Red_Maids.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/34603827/large.jpeg,Downloaded
+Blue-eyed Grass,Blue_eyed_Grass.jpg,https://upload.wikimedia.org/wikipedia/commons/4/49/BlueEyedGrass.jpg,Downloaded
+Chinese Houses,Chinese_Houses.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Pilea_peperomioides_Chinese_money_plant.jpg/960px-Pilea_peperomioides_Chinese_money_plant.jpg,Downloaded
+Douglas Iris,Douglas_Iris.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Iris_sanguinea_cultivar%2C_Wakehurst_Place%2C_UK_-_Diliff.jpg/960px-Iris_sanguinea_cultivar%2C_Wakehurst_Place%2C_UK_-_Diliff.jpg,Downloaded
+Checker Bloom,Checker_Bloom.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sidalcea_malachroides_4.jpg/960px-Sidalcea_malachroides_4.jpg,Downloaded
+Scarlet Bugler Penstemon,Scarlet_Bugler_Penstemon.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Penstemon_barbatus_-_Wendy_McCrady_01.jpg/960px-Penstemon_barbatus_-_Wendy_McCrady_01.jpg,Downloaded
+Foothill Penstemon,Foothill_Penstemon.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Penstemonheterophyllus0.jpg/960px-Penstemonheterophyllus0.jpg,Downloaded
+California Goldfields,California_Goldfields.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lasthenia_californica.jpg/960px-Lasthenia_californica.jpg,Downloaded
+superb Mariposa Lily,superb_Mariposa_Lily.jpg,(existing),Skipped (existing)
+Wind Poppy,Wind_Poppy.jpg,https://upload.wikimedia.org/wikipedia/commons/9/93/Papaver_rhoeas_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-101.jpg,Downloaded
+Blazing Star,Blazing_Star.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/49024936/large.jpg,Downloaded
+Woolly Sunflower,Woolly_Sunflower.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/960px-Sunflower_sky_backdrop.jpg,Downloaded
+Tarweed,Tarweed.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Madia-sativa.jpg/960px-Madia-sativa.jpg,Downloaded
+Mule Ears,Mule_Ears.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/11682/large.jpg,Downloaded
+Gumweed,Gumweed.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Curlycup_Gumweed.jpg/960px-Curlycup_Gumweed.jpg,Downloaded
+Seaside Daisy,Seaside_Daisy.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Erigeron_Glaucus.jpg/960px-Erigeron_Glaucus.jpg,Downloaded
+Desert Chicory,Desert_Chicory.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Pyrrhopappus_Multicaulis.jpg/960px-Pyrrhopappus_Multicaulis.jpg,Downloaded
+Apricot Mallow,Apricot_Mallow.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sphaeralcea-ambigua-detail.jpg/960px-Sphaeralcea-ambigua-detail.jpg,Downloaded
+Desert Marigold,Desert_Marigold.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Calendula_January_2008-1_filtered.jpg/960px-Calendula_January_2008-1_filtered.jpg,Downloaded
+Evening Primrose,Evening_Primrose.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Oenothera_biennis%2C_Vic-la-Gardiole_01.jpg/960px-Oenothera_biennis%2C_Vic-la-Gardiole_01.jpg,Downloaded
+Sand Verbena,Sand_Verbena.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Abronia_fragrans_25461794.jpg/960px-Abronia_fragrans_25461794.jpg,Downloaded
+Beach Evening Primrose,Beach_Evening_Primrose.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/11555/large.jpg,Downloaded
+California Phacelia,California_Phacelia.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Phacelia_tanacetifolia_in_bloom%2C_Souris%2C_PEI%2C_July_2025.jpg/960px-Phacelia_tanacetifolia_in_bloom%2C_Souris%2C_PEI%2C_July_2025.jpg,Downloaded
+Blue Phacelia,Blue_Phacelia.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Phacelia_tanacetifolia_in_bloom%2C_Souris%2C_PEI%2C_July_2025.jpg/960px-Phacelia_tanacetifolia_in_bloom%2C_Souris%2C_PEI%2C_July_2025.jpg,Downloaded
+Whispering Bells,Whispering_Bells.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Emmenanthe_penduliflora_inflorescences_2004-05-17.jpg/960px-Emmenanthe_penduliflora_inflorescences_2004-05-17.jpg,Downloaded
+Fiesta Flower,Fiesta_Flower.jpg,https://upload.wikimedia.org/wikipedia/commons/5/59/Pholistoma_racemosum.jpg,Downloaded
+Biscuitroot,Biscuitroot.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Lomatium_piperi_%285902040310%29.jpg/960px-Lomatium_piperi_%285902040310%29.jpg,Downloaded
+Blue Larkspur,Blue_Larkspur.jpg,https://upload.wikimedia.org/wikipedia/commons/c/c0/Delphinium_grandiflorum_472.jpg,Downloaded
+Scarlet Larkspur,Scarlet_Larkspur.jpg,https://upload.wikimedia.org/wikipedia/commons/8/8e/Delphiniumcardinale.jpg,Downloaded
+Soap Plant,Soap_Plant.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Soap_Plant_Wacko_Entrance_2016.jpg/960px-Soap_Plant_Wacko_Entrance_2016.jpg,Downloaded
+Paper Wild Onion,Paper_Wild_Onion.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wild_Leeks6.jpeg/960px-Wild_Leeks6.jpeg,Downloaded
+Harvest Brodiaea,Harvest_Brodiaea.jpg,https://upload.wikimedia.org/wikipedia/commons/d/d8/Brodiaea_californica_ssp_leptandra_1.jpg,Downloaded
+Mission Bells,Mission_Bells.jpg,https://upload.wikimedia.org/wikipedia/commons/6/68/Fritillaria_meleagris0.jpg,Downloaded
+Adobe Lily,Adobe_Lily.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fritillaria_striata_%28striped_adobe_lily%29_%2832653193446%29.jpg/960px-Fritillaria_striata_%28striped_adobe_lily%29_%2832653193446%29.jpg,Downloaded
+Death Camas,Death_Camas.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Toxicoscordion_venenosum_-_Craig_Martin_01.jpg/960px-Toxicoscordion_venenosum_-_Craig_Martin_01.jpg,Downloaded
+Fiddleneck,Fiddleneck.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Amsinckia_tessellata_7741.JPG/960px-Amsinckia_tessellata_7741.JPG,Downloaded
+Butter and Eggs,Butter_and_Eggs.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/542354433/large.jpg,Downloaded
+Rosinweed,Rosinweed.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Cup_plant.jpg/960px-Cup_plant.jpg,Downloaded
+Hummingbird Trumpet,Hummingbird_Trumpet.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Campsis_radicans_-_Trumpet_Creeper.jpg/960px-Campsis_radicans_-_Trumpet_Creeper.jpg,Downloaded
+Crimson Monkeyflower,Crimson_Monkeyflower.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mimulus_cardinalis_flower_2003-03-12.jpg/960px-Mimulus_cardinalis_flower_2003-03-12.jpg,Downloaded
+Seep Monkeyflower,Seep_Monkeyflower.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mimulus_guttatus_5639.JPG/960px-Mimulus_guttatus_5639.JPG,Downloaded
+Scarlet Bush Monkeyflower,Scarlet_Bush_Monkeyflower.jpg,,FAILED
+Keckiella,Keckiella.jpg,https://upload.wikimedia.org/wikipedia/commons/5/57/Kebr_001_lhp.jpg,Downloaded
+Yellow Bush Penstemon,Yellow_Bush_Penstemon.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Penstemon_fruticosus_15248.JPG/960px-Penstemon_fruticosus_15248.JPG,Downloaded
+Apache Plume,Apache_Plume.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Fallugia_paradoxa_2017.jpg/960px-Fallugia_paradoxa_2017.jpg,Downloaded
+Cliffrose,Cliffrose.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Purshia_stansburiana_2.jpg/960px-Purshia_stansburiana_2.jpg,Downloaded
+Desert Lavender,Desert_Lavender.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Hyptis_emoryi.jpg/960px-Hyptis_emoryi.jpg,Downloaded
+Pearly Everlasting,Pearly_Everlasting.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Anapahlis_margaritacea.jpg/960px-Anapahlis_margaritacea.jpg,Downloaded
+Woolly Paintbrush,Woolly_Paintbrush.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Blechnum_spicant.jpg/960px-Blechnum_spicant.jpg,Downloaded
+Indian Warrior,Indian_Warrior.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Pedicularis_densiflora_mt._diablo.JPG/960px-Pedicularis_densiflora_mt._diablo.JPG,Downloaded
+Sea Fig,Sea_Fig.jpg,https://upload.wikimedia.org/wikipedia/commons/2/2e/Ficus_carica_L%2C_1771.jpg,Downloaded
+Spectacle Pod,Spectacle_Pod.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Dimorphocarpa_wislizeni_Warner_Valley_UT.jpg/960px-Dimorphocarpa_wislizeni_Warner_Valley_UT.jpg,Downloaded
+Valley Oak,Valley_Oak.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Valley_Oak_Mount_Diablo.jpg/960px-Valley_Oak_Mount_Diablo.jpg,Downloaded
+California Black Oak,California_Black_Oak.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/25409011/large.jpeg,Downloaded
+Blue Oak,Blue_Oak.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Large_Blue_Oak.jpg/960px-Large_Blue_Oak.jpg,Downloaded
+California Buckeye,California_Buckeye.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Aesculus_californica_Mt_Burdell.jpg/960px-Aesculus_californica_Mt_Burdell.jpg,Downloaded
+Pacific Madrone,Pacific_Madrone.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Arbutus_menziesii_5822.JPG/960px-Arbutus_menziesii_5822.JPG,Downloaded
+California Bay Laurel,California_Bay_Laurel.jpg,https://upload.wikimedia.org/wikipedia/commons/c/c6/Umbellularia_californica_02.jpg,Downloaded
+Gray Pine,Gray_Pine.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Skuleskogen_pine.jpg/960px-Skuleskogen_pine.jpg,Downloaded
+Coulter Pine,Coulter_Pine.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Culter_pine_cone.jpg/960px-Culter_pine_cone.jpg,Downloaded
+Knobcone Pine,Knobcone_Pine.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pinus_attenuata1_Shultzc.jpg/960px-Pinus_attenuata1_Shultzc.jpg,Downloaded
+White Alder,White_Alder.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/55405328/large.jpeg,Downloaded
+Big-leaf Maple,Big_leaf_Maple.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Acer_macrophyllum_1199.jpg/960px-Acer_macrophyllum_1199.jpg,Downloaded
+Pacific Dogwood,Pacific_Dogwood.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2338_PacificDogwood.jpg/960px-2338_PacificDogwood.jpg,Downloaded
+California Ash,California_Ash.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wood_ash.jpg/960px-Wood_ash.jpg,Downloaded
+Tanoak,Tanoak.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Lithocarpus_densiflorus_leaves2.jpg/960px-Lithocarpus_densiflorus_leaves2.jpg,Downloaded
+Western Juniper,Western_Juniper.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Juniperus_osteosperma_1.jpg/960px-Juniperus_osteosperma_1.jpg,Downloaded
+Blue Palo Verde,Blue_Palo_Verde.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/PaloVerdeNuclearGeneratingStation.jpg/960px-PaloVerdeNuclearGeneratingStation.jpg,Downloaded
+Desert Ironwood,Desert_Ironwood.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Olneya_tesota-_leaves.jpg/960px-Olneya_tesota-_leaves.jpg,Downloaded
+California Wild Ginger,California_Wild_Ginger.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Zingiber_zerumbet_03.JPG/960px-Zingiber_zerumbet_03.JPG,Downloaded
+Coral Bells,Coral_Bells.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/San_Gabriel_Mountains_coralbells.jpg/960px-San_Gabriel_Mountains_coralbells.jpg,Downloaded
+Mountain Pennyroyal,Mountain_Pennyroyal.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/17872/large.jpg,Downloaded
+Coyote Mint,Coyote_Mint.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Monardella_villosa_ssp._franciscana.jpg/960px-Monardella_villosa_ssp._franciscana.jpg,Downloaded
+Purple Needlegrass,Purple_Needlegrass.jpg,https://upload.wikimedia.org/wikipedia/commons/7/7e/Nassellapulchra.jpg,Downloaded
+Deer Grass,Deer_Grass.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ornamental_Grass_%283052146417%29.jpg/960px-Ornamental_Grass_%283052146417%29.jpg,Downloaded
+Blue Wild Rye,Blue_Wild_Rye.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Elymus_glaucus.jpg/960px-Elymus_glaucus.jpg,Downloaded
+Salt Grass,Salt_Grass.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Spartina_alterniflora.jpg/960px-Spartina_alterniflora.jpg,Downloaded
+California Cord Grass,California_Cord_Grass.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Spartina_alterniflora.jpg/960px-Spartina_alterniflora.jpg,Downloaded
+Tule,Tule.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Schoenoplectus_acutus_var_occidentalis_BB-1913.png/960px-Schoenoplectus_acutus_var_occidentalis_BB-1913.png,Downloaded
+Common Cattail,Common_Cattail.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bulrush_%28Typha_latifolia%29_%288139113636%29.jpg/960px-Bulrush_%28Typha_latifolia%29_%288139113636%29.jpg,Downloaded
+Pacific Rush,Pacific_Rush.jpg,https://upload.wikimedia.org/wikipedia/commons/f/f6/Pacific_Ocean_-_en.png,Downloaded
+Meadow Barley,Meadow_Barley.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hordeum_marinum_plants.jpg/960px-Hordeum_marinum_plants.jpg,Downloaded
+Indian Ricegrass,Indian_Ricegrass.jpg,https://upload.wikimedia.org/wikipedia/commons/5/5c/Achnatherum_hymenoides_-_Ricegrass.jpg,Downloaded
+One-sided Bluegrass,One_sided_Bluegrass.jpg,https://upload.wikimedia.org/wikipedia/commons/0/0a/Poasecunda.jpg,Downloaded
+Pacific Fescue,Pacific_Fescue.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fr%C3%BChling_bl%C3%BChender_Kirschenbaum.jpg/960px-Fr%C3%BChling_bl%C3%BChender_Kirschenbaum.jpg,Downloaded
+Slender Hairgrass,Slender_Hairgrass.jpg,https://upload.wikimedia.org/wikipedia/commons/b/b3/Deschampsia_elongata_NRCS-1.jpg,Downloaded
+Mesa Sedge,Mesa_Sedge.jpg,,FAILED
+Spikerush,Spikerush.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eleocharis_acicularis.jpeg/960px-Eleocharis_acicularis.jpeg,Downloaded
+Western Sword Fern,Western_Sword_Fern.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/412744739/large.jpeg,Downloaded
+Goldback Fern,Goldback_Fern.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/302400/large.jpg,Downloaded
+California Polypody,California_Polypody.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mentzelialindleyi.jpg/960px-Mentzelialindleyi.jpg,Downloaded
+Five-finger Fern,Five_finger_Fern.jpg,https://upload.wikimedia.org/wikipedia/commons/2/2e/Pruszkowski_Fern_flower.jpg,Downloaded
+Silverback Fern,Silverback_Fern.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Pityrogramma_calomelanos_-_Gannu03_-_228638684.jpeg/960px-Pityrogramma_calomelanos_-_Gannu03_-_228638684.jpeg,Downloaded
+Coffee Fern,Coffee_Fern.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Maragogipe_Coffee.jpg/960px-Maragogipe_Coffee.jpg,Downloaded
+Bird's-foot Fern,Bird_s_foot_Fern.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/%28MHNT%29_Lotus_corniculatus_-_Plant_habit.jpg/960px-%28MHNT%29_Lotus_corniculatus_-_Plant_habit.jpg,Downloaded
+Bracken Fern,Bracken_Fern.jpg,https://upload.wikimedia.org/wikipedia/commons/2/2c/Pteridium_aquilinum_nf.jpg,Downloaded
+Lady Fern,Lady_Fern.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Athyrium_filix-femina0.jpg/960px-Athyrium_filix-femina0.jpg,Downloaded
+Rock Brake,Rock_Brake.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/82820550/large.jpg,Downloaded
+California Lace Fern,California_Lace_Fern.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Aspidotis_densa_5982.JPG/960px-Aspidotis_densa_5982.JPG,Downloaded
+Cloak Fern,Cloak_Fern.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Southwestern_False_Cloak_Fern_%2838373216052%29.jpg/960px-Southwestern_False_Cloak_Fern_%2838373216052%29.jpg,Downloaded
+Horsetail,Horsetail.jpg,https://upload.wikimedia.org/wikipedia/commons/e/e9/Equisetum_telmateia%2C_Ireland_1_-_Ragnhild_%26_Neil_Crawford.jpg,Downloaded
+California Spikenard,California_Spikenard.jpg,https://upload.wikimedia.org/wikipedia/commons/e/eb/Aralia_californica_leaf.jpg,Downloaded
+Cow Parsnip,Cow_Parsnip.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Heracleum_lanatum_from_High_Trail.jpg/960px-Heracleum_lanatum_from_High_Trail.jpg,Downloaded
+Snowdrop Bush,Snowdrop_Bush.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Styrax_officinalis_tree.JPG/960px-Styrax_officinalis_tree.JPG,Downloaded
+Spicebush,Spicebush.jpg,https://upload.wikimedia.org/wikipedia/commons/6/69/Spicebush_%284506720062%29.jpg,Downloaded
+Bush Anemone,Bush_Anemone.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Carpenteria_californica.jpg/960px-Carpenteria_californica.jpg,Downloaded
+Mission Manzanita,Mission_Manzanita.jpg,https://upload.wikimedia.org/wikipedia/commons/d/df/ManzanitaShrubBranches_wb.jpg,Downloaded
+Bigpod Ceanothus,Bigpod_Ceanothus.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ceanothus_americanus.jpg/960px-Ceanothus_americanus.jpg,Downloaded
+Deer Brush,Deer_Brush.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ceanothus_integerrimus_04.jpg/960px-Ceanothus_integerrimus_04.jpg,Downloaded
+Chaparral Currant,Chaparral_Currant.jpg,https://upload.wikimedia.org/wikipedia/commons/5/55/Agarita%2C_Agrito%2C_Algerita_%28Mahonia_trifoliolata%29.jpg,Downloaded
+Squaw Bush,Squaw_Bush.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Cornus_amomum_flowers_01.JPG/960px-Cornus_amomum_flowers_01.JPG,Downloaded
+Spiny Redberry,Spiny_Redberry.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Rhamnus_crocea_1.jpg/960px-Rhamnus_crocea_1.jpg,Downloaded
+Hairy Yerba Santa,Hairy_Yerba_Santa.jpg,https://upload.wikimedia.org/wikipedia/commons/2/27/YerbaBuena2ftTall.jpg,Downloaded
+Prickly Phlox,Prickly_Phlox.jpg,https://upload.wikimedia.org/wikipedia/commons/a/ae/Leptodactylon_watsonii.jpg,Downloaded
+Inside-out Flower,Inside_out_Flower.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Magnolia_grandiflora_-_flower_1.jpg/960px-Magnolia_grandiflora_-_flower_1.jpg,Downloaded
+Coyote Tobacco,Coyote_Tobacco.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Nicotiana_attenuata_4.jpg/960px-Nicotiana_attenuata_4.jpg,Downloaded
+Datura,Datura.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sacred_datura_%28Datura_wrightii%29_%2814212557338%29.jpg/960px-Sacred_datura_%28Datura_wrightii%29_%2814212557338%29.jpg,Downloaded
+Catclaw Acacia,Catclaw_Acacia.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Acacia_greggii_thorns.jpg/960px-Acacia_greggii_thorns.jpg,Downloaded
+Burrobrush,Burrobrush.jpg,https://upload.wikimedia.org/wikipedia/commons/c/ca/Hymenocleamonogyra.jpg,Downloaded
+Desert Broom,Desert_Broom.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Baccharissarothroides.JPG/960px-Baccharissarothroides.JPG,Downloaded
+Desert Holly,Desert_Holly.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Prunus_ilicifolia_ne1.jpg/960px-Prunus_ilicifolia_ne1.jpg,Downloaded
+Cheesebush,Cheesebush.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hymenoclea_salsola_close.jpg/960px-Hymenoclea_salsola_close.jpg,Downloaded
+Goldenhead,Goldenhead.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Acamptopappus_shockleyi_7.jpg/960px-Acamptopappus_shockleyi_7.jpg,Downloaded
+Parish's Goldeneye,Parish_s_Goldeneye.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/GoldeneyeEstate.jpg/960px-GoldeneyeEstate.jpg,Downloaded
+Desert Trumpet,Desert_Trumpet.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Eriogonum_inflatum_1.jpg/960px-Eriogonum_inflatum_1.jpg,Downloaded
+Silver Cholla,Silver_Cholla.jpg,https://upload.wikimedia.org/wikipedia/commons/d/d7/Cylindropuntia_kleiniae.jpg,Downloaded
+Barrel Cactus,Barrel_Cactus.jpg,https://upload.wikimedia.org/wikipedia/commons/0/0d/Echinocactus_grusonii_1.jpg,Downloaded
+Buckhorn Cholla,Buckhorn_Cholla.jpg,https://upload.wikimedia.org/wikipedia/commons/d/d7/Cylindropuntia_kleiniae.jpg,Downloaded
+Coast Cholla,Coast_Cholla.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cylindropuntia_bernardina_14141037.jpg/960px-Cylindropuntia_bernardina_14141037.jpg,Downloaded
+Mojave Aster,Mojave_Aster.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Joshua_Tree_National_Park_flowers_-_Xylorhiza_tortifolia_-_6.JPG/960px-Joshua_Tree_National_Park_flowers_-_Xylorhiza_tortifolia_-_6.JPG,Downloaded
+Desert Aster,Desert_Aster.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Symphyotrichum_novae-angliae3.jpg/960px-Symphyotrichum_novae-angliae3.jpg,Downloaded
+Spanish Bayonet,Spanish_Bayonet.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/122618669/large.jpg,Downloaded
+Shaw's Agave,Shaw_s_Agave.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Agave_shawii_38540611.jpg/960px-Agave_shawii_38540611.jpg,Downloaded
+California Fan Palm,California_Fan_Palm.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Washingtonia_filifera.jpg/960px-Washingtonia_filifera.jpg,Downloaded
+Hesper Palm,Hesper_Palm.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Brahea_dulcis.jpg/960px-Brahea_dulcis.jpg,Downloaded
+Desert Senna,Desert_Senna.jpg,https://static.inaturalist.org/photos/74497845/large.jpg,Downloaded
+Cat's Claw Mimosa,Cat_s_Claw_Mimosa.jpg,,FAILED
+Honey Mesquite,Honey_Mesquite.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mezquites_en_Jes%C3%BAs_Mar%C3%ADa%2C_Aguascalientes_08.jpg/960px-Mezquites_en_Jes%C3%BAs_Mar%C3%ADa%2C_Aguascalientes_08.jpg,Downloaded
+Screwbean Mesquite,Screwbean_Mesquite.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mezquites_en_Jes%C3%BAs_Mar%C3%ADa%2C_Aguascalientes_08.jpg/960px-Mezquites_en_Jes%C3%BAs_Mar%C3%ADa%2C_Aguascalientes_08.jpg,Downloaded
+Foxtail Cactus,Foxtail_Cactus.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Pelecyphora_strobiliformis.jpg/960px-Pelecyphora_strobiliformis.jpg,Downloaded
+Sea Rocket,Sea_Rocket.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/C_edentula.jpg/960px-C_edentula.jpg,Downloaded
+Scarlet Gilia,Scarlet_Gilia.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ipomopsis_aggregata_5908.JPG/960px-Ipomopsis_aggregata_5908.JPG,Downloaded
+Brown-eyed Evening Primrose,Brown_eyed_Evening_Primrose.jpg,https://static.inaturalist.org/photos/767749/large.jpg,Downloaded
+Desert Blazingstar,Desert_Blazingstar.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mentzelia_multiflora.jpg/960px-Mentzelia_multiflora.jpg,Downloaded
+Tansy Phacelia,Tansy_Phacelia.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Phacelia_tanacetifolia_in_bloom%2C_Souris%2C_PEI%2C_July_2025.jpg/960px-Phacelia_tanacetifolia_in_bloom%2C_Souris%2C_PEI%2C_July_2025.jpg,Downloaded
+White Layia,White_Layia.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Layia_platyglossa_Tidy-Tips%21_%28hortulus%29_001.jpg/960px-Layia_platyglossa_Tidy-Tips%21_%28hortulus%29_001.jpg,Downloaded
+Fremont's Tidytips,Fremont_s_Tidytips.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Layia_fremontii.jpg/960px-Layia_fremontii.jpg,Downloaded
+Canyon Clarkia,Canyon_Clarkia.jpg,https://upload.wikimedia.org/wikipedia/commons/7/7d/Clarkiaepilobioides.jpg,Downloaded
+Winecup Clarkia,Winecup_Clarkia.jpg,https://upload.wikimedia.org/wikipedia/commons/9/95/Clarkia_purpurea_M._hart.png,Downloaded
+Elegant Clarkia,Elegant_Clarkia.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Clarkia_unguiculata.jpg/960px-Clarkia_unguiculata.jpg,Downloaded
+Farewell-to-Spring,Farewell_to_Spring.jpg,(existing),Skipped (existing)
+Hillside Pea,Hillside_Pea.jpg,https://upload.wikimedia.org/wikipedia/commons/d/dd/Lathyrus_sylvestris1.jpg,Downloaded
+Pacific Pea,Pacific_Pea.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/2381/large.jpg,Downloaded
+Broad-leaf Lupine,Broad_leaf_Lupine.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lupinus_latifolius_5800.JPG/960px-Lupinus_latifolius_5800.JPG,Downloaded
+Deer Clover,Deer_Clover.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Trifolium_pratense_-_Keila2.jpg/960px-Trifolium_pratense_-_Keila2.jpg,Downloaded
+Purple Owl's Clover,Purple_Owl_s_Clover.jpg,https://upload.wikimedia.org/wikipedia/commons/8/8d/79_Trifolium_repens_L.jpg,Downloaded
+Parish's Poppy,Parish_s_Poppy.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Eschschparishii.jpg/960px-Eschschparishii.jpg,Downloaded
+Parish's Phacelia,Parish_s_Phacelia.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Phacelia_tanacetifolia_7735.JPG/960px-Phacelia_tanacetifolia_7735.JPG,Downloaded
+Woolly Phacelia,Woolly_Phacelia.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Blechnum_spicant.jpg/960px-Blechnum_spicant.jpg,Downloaded
+Caterpillar Phacelia,Caterpillar_Phacelia.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Phacelia_cicutaria_001.jpg/960px-Phacelia_cicutaria_001.jpg,Downloaded
+Scarlet Pimpernel,Scarlet_Pimpernel.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flowers_March_2008-19.jpg/960px-Flowers_March_2008-19.jpg,Downloaded
+Wild Mustard,Wild_Mustard.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mustard_plant_flower.jpg/960px-Mustard_plant_flower.jpg,Downloaded
+Red-stem Filaree,Red_stem_Filaree.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Erodium_cicutarium_whole_plant.jpg/960px-Erodium_cicutarium_whole_plant.jpg,Downloaded
+White-stem Filaree,White_stem_Filaree.jpg,https://static.inaturalist.org/photos/3084700/large.jpg,Downloaded
+Foxtail Barley,Foxtail_Barley.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hordeum_jubatum_-_close-up_%28aka%29.jpg/960px-Hordeum_jubatum_-_close-up_%28aka%29.jpg,Downloaded
+Wild Oats,Wild_Oats.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/268294240/large.jpeg,Downloaded
+Ripgut Brome,Ripgut_Brome.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/131068365/large.jpeg,Downloaded
+Cheatgrass,Cheatgrass.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Bromus_tectorum_%E2%80%94_Flora_Batava_%E2%80%94_Volume_v13.jpg/960px-Bromus_tectorum_%E2%80%94_Flora_Batava_%E2%80%94_Volume_v13.jpg,Downloaded
+Italian Ryegrass,Italian_Ryegrass.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lolium_perenne_Engels_raaigras_doorschietend.jpg/960px-Lolium_perenne_Engels_raaigras_doorschietend.jpg,Downloaded
+Annual Bluegrass,Annual_Bluegrass.jpg,https://upload.wikimedia.org/wikipedia/commons/7/7b/Poa_annua.jpeg,Downloaded
+Bermuda Grass,Bermuda_Grass.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Cynodon_dactylon_2.jpg/960px-Cynodon_dactylon_2.jpg,Downloaded
+Kikuyu Grass,Kikuyu_Grass.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Starr_020911-0028_Pennisetum_clandestinum.jpg/960px-Starr_020911-0028_Pennisetum_clandestinum.jpg,Downloaded
+Hottentot Fig,Hottentot_Fig.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hottentot_Fig_-_Flowering.jpg/960px-Hottentot_Fig_-_Flowering.jpg,Downloaded
+Freeway Ice Plant,Freeway_Ice_Plant.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hottentot_Fig_-_Flowering.jpg/960px-Hottentot_Fig_-_Flowering.jpg,Downloaded
+Cape Ivy,Cape_Ivy.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Starr-090519-8088-Delairea_odorata-flowers_and_leaves-Kula-Maui_%2824325129764%29.jpg/960px-Starr-090519-8088-Delairea_odorata-flowers_and_leaves-Kula-Maui_%2824325129764%29.jpg,Downloaded
+English Ivy,English_Ivy.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hedera_helix_Dover.jpg/960px-Hedera_helix_Dover.jpg,Downloaded
+Pampas Grass,Pampas_Grass.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/173109660/large.jpg,Downloaded
+Giant Reed,Giant_Reed.jpg,https://upload.wikimedia.org/wikipedia/commons/8/88/Reeds%2C_Reeds%2C_Reeds._-_geograph.org.uk_-_366871.jpg,Downloaded
+Tamarisk,Tamarisk.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Tamarix_aphylla.jpg/960px-Tamarix_aphylla.jpg,Downloaded
+Tree of Heaven,Tree_of_Heaven.jpg,https://upload.wikimedia.org/wikipedia/commons/e/eb/G%C3%B6tterbaum_%28Ailanthus_altissima%29.jpg,Downloaded
+Eucalyptus (Blue Gum),Eucalyptus_Blue_Gum.jpg,https://upload.wikimedia.org/wikipedia/commons/4/42/Eucalyptus_globulus_subsp._maidenii.jpg,Downloaded
+Eucalyptus (Lemon),Eucalyptus_Lemon.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Corymbia_citriodora.jpg/960px-Corymbia_citriodora.jpg,Downloaded
+Periwinkle,Periwinkle.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Vinca_%28Catharanthus_roseus%29_cultivada_em_Bag%C3%A9%2C_RS%2C_Brasil_-_55231652268.jpg/960px-Vinca_%28Catharanthus_roseus%29_cultivada_em_Bag%C3%A9%2C_RS%2C_Brasil_-_55231652268.jpg,Downloaded
+Common Fennel,Common_Fennel.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Foeniculum_July_2011-1a.jpg/960px-Foeniculum_July_2011-1a.jpg,Downloaded
+Wild Artichoke Thistle,Wild_Artichoke_Thistle.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Artichoke_J1.jpg/960px-Artichoke_J1.jpg,Downloaded
+Yellow Star Thistle,Yellow_Star_Thistle.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Yellow_star_thistle.jpg/960px-Yellow_star_thistle.jpg,Downloaded
+Bull Thistle,Bull_Thistle.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/20160729Cirsium_vulgare5.jpg/960px-20160729Cirsium_vulgare5.jpg,Downloaded
+Milk Thistle,Milk_Thistle.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Milk_thistle_flowerhead.jpg/960px-Milk_thistle_flowerhead.jpg,Downloaded
+Russian Thistle,Russian_Thistle.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/322206029/large.jpg,Downloaded
+London Rocket,London_Rocket.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sisymbrium_irio_flower.JPG/960px-Sisymbrium_irio_flower.JPG,Downloaded
+Shepherd's Purse,Shepherd_s_Purse.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/A_Field_of_Shepherd%E2%80%99s-purse.jpg/960px-A_Field_of_Shepherd%E2%80%99s-purse.jpg,Downloaded
+Hairy Bittercress,Hairy_Bittercress.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kleine_veldkers_Cardamine_hirsuta_plant.jpg/960px-Kleine_veldkers_Cardamine_hirsuta_plant.jpg,Downloaded
+Common Chickweed,Common_Chickweed.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kaldari_Stellaria_media_01.jpg/960px-Kaldari_Stellaria_media_01.jpg,Downloaded
+Lamb's Quarters,Lamb_s_Quarters.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/234299048/large.jpeg,Downloaded
+Common Purslane,Common_Purslane.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Portulaca_oleracea.jpg/960px-Portulaca_oleracea.jpg,Downloaded
+Pigweed (Redroot),Pigweed_Redroot.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Amaranthus_retroflexus_flower1.jpg/960px-Amaranthus_retroflexus_flower1.jpg,Downloaded
+Common Mallow,Common_Mallow.jpg,https://upload.wikimedia.org/wikipedia/commons/f/ff/Althaea_officinalis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-008.jpg,Downloaded
+Cheeseweed Mallow,Cheeseweed_Mallow.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Malva_parviflora_small.jpg/960px-Malva_parviflora_small.jpg,Downloaded
+Curly Dock,Curly_Dock.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Rumex_crispus_vallee-de-grace-amiens_80_12062007_3.jpg/960px-Rumex_crispus_vallee-de-grace-amiens_80_12062007_3.jpg,Downloaded
+Broad-leaf Dock,Broad_leaf_Dock.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rumex-obtusifolius-foliage.JPG/960px-Rumex-obtusifolius-foliage.JPG,Downloaded
+Sheep Sorrel,Sheep_Sorrel.jpg,https://upload.wikimedia.org/wikipedia/commons/9/96/Ahosuolahein%C3%A4_%28Rumex_acetosella%29.jpg,Downloaded
+Yellow Wood Sorrel,Yellow_Wood_Sorrel.jpg,https://upload.wikimedia.org/wikipedia/commons/6/6c/Oxalis_acetosella_jfg.jpg,Downloaded
+Common Groundsel,Common_Groundsel.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Common_Groundsel-first_fruits.jpg/960px-Common_Groundsel-first_fruits.jpg,Downloaded
+Bristly Oxtongue,Bristly_Oxtongue.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Helminthotheca_echioides_sl67.jpg/960px-Helminthotheca_echioides_sl67.jpg,Downloaded
+Cat's Ear,Cat_s_Ear.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/229524032/large.jpg,Downloaded
+Crabgrass,Crabgrass.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Harig_vingergras_plant_%28Digitaria_sanguinalis%29.jpg/960px-Harig_vingergras_plant_%28Digitaria_sanguinalis%29.jpg,Downloaded
+Barnyardgrass,Barnyardgrass.jpg,https://upload.wikimedia.org/wikipedia/commons/a/a5/Echinochloa_muricata_NRCS-1.jpg,Downloaded
+Johnsongrass,Johnsongrass.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Starr_030612-8001_Sorghum_halepense.jpg/960px-Starr_030612-8001_Sorghum_halepense.jpg,Downloaded
+Smilo Grass,Smilo_Grass.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/68985268/large.jpg,Downloaded
+Jimsonweed,Jimsonweed.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Datura_stramonium_2_%282005_07_07%29.jpg/960px-Datura_stramonium_2_%282005_07_07%29.jpg,Downloaded
+Tree Tobacco,Tree_Tobacco.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Tabak_9290019.JPG/960px-Tabak_9290019.JPG,Downloaded
+Common Tobacco,Common_Tobacco.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tabak_P9290021.JPG/960px-Tabak_P9290021.JPG,Downloaded
+Purple Loosestrife,Purple_Loosestrife.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Lythrum_salicaria_-_harilik_kukesaba.jpg/960px-Lythrum_salicaria_-_harilik_kukesaba.jpg,Downloaded
+Common Mullein,Common_Mullein.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Starr_040723-0030_Verbascum_thapsus.jpg/960px-Starr_040723-0030_Verbascum_thapsus.jpg,Downloaded
+Moth Mullein,Moth_Mullein.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Shargacucullia_verbasci.jpg/960px-Shargacucullia_verbasci.jpg,Downloaded
+Horehound,Horehound.jpg,https://upload.wikimedia.org/wikipedia/commons/8/84/Marrubium_vulgare_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-224.jpg,Downloaded
+Common Plantain,Common_Plantain.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Grote_weegbree_bloeiwijze_Plantago_major_subsp._major.jpg/960px-Grote_weegbree_bloeiwijze_Plantago_major_subsp._major.jpg,Downloaded
+Narrow-leaf Plantain,Narrow_leaf_Plantain.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Grote_weegbree_bloeiwijze_Plantago_major_subsp._major.jpg/960px-Grote_weegbree_bloeiwijze_Plantago_major_subsp._major.jpg,Downloaded
+Spotted Spurge,Spotted_Spurge.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Chamaesyce.jpg/960px-Chamaesyce.jpg,Downloaded
+Prostrate Spurge,Prostrate_Spurge.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Chamaesyce.jpg/960px-Chamaesyce.jpg,Downloaded
+Castor Bean,Castor_Bean.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ricinus_March_2010-1.jpg/960px-Ricinus_March_2010-1.jpg,Downloaded
+Storksbill,Storksbill.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Pelargonium_australe_%28Geraniaceae%29_flower.JPG/960px-Pelargonium_australe_%28Geraniaceae%29_flower.JPG,Downloaded
+Red Clover,Red_Clover.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Trifolium_pratense_-_Keila2.jpg/960px-Trifolium_pratense_-_Keila2.jpg,Downloaded
+White Clover,White_Clover.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Trifolium_repens_-_white_clover_on_way_from_Govindghat_to_Gangria_at_Valley_of_Flowers_National_Park_-_during_LGFC_-_VOF_2019_%281%29.jpg/960px-Trifolium_repens_-_white_clover_on_way_from_Govindghat_to_Gangria_at_Valley_of_Flowers_National_Park_-_during_LGFC_-_VOF_2019_%281%29.jpg,Downloaded
+Bur Clover,Bur_Clover.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Medicago_polymorpha_%28Flower%29.jpg/960px-Medicago_polymorpha_%28Flower%29.jpg,Downloaded
+Black Medic,Black_Medic.jpg,https://upload.wikimedia.org/wikipedia/commons/b/b1/MedicagoLupulina02.jpg,Downloaded
+Yellow Sweet Clover,Yellow_Sweet_Clover.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bombus_lapidarius_-_Melilotus_officinalis_-_Tallinn.jpg/960px-Bombus_lapidarius_-_Melilotus_officinalis_-_Tallinn.jpg,Downloaded
+Common Vetch,Common_Vetch.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/%28MHNT%29_Vicia_sativa.jpg/960px-%28MHNT%29_Vicia_sativa.jpg,Downloaded
+Hairy Vetch,Hairy_Vetch.jpg,https://upload.wikimedia.org/wikipedia/commons/3/33/Vicia_villosa.jpeg,Downloaded
+Alfalfa,Alfalfa.jpg,https://upload.wikimedia.org/wikipedia/commons/e/eb/75_Medicago_sativa_L.jpg,Downloaded
+Pink Oxalis,Pink_Oxalis.jpg,https://upload.wikimedia.org/wikipedia/commons/6/6c/Oxalis_acetosella_jfg.jpg,Downloaded
+Poison Hemlock,Poison_Hemlock.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Conium.jpg/960px-Conium.jpg,Downloaded
+Wild Carrot,Wild_Carrot.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Daucus_carota_May_2008-1_edit.jpg/960px-Daucus_carota_May_2008-1_edit.jpg,Downloaded
+Pineapple Weed,Pineapple_Weed.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Matricaria_discoidea_-_l%C3%B5hnav_kummel_Keilas.jpg/960px-Matricaria_discoidea_-_l%C3%B5hnav_kummel_Keilas.jpg,Downloaded
+Common Chamomile,Common_Chamomile.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Kamomillasaunio_%28Matricaria_recutita%29.JPG/960px-Kamomillasaunio_%28Matricaria_recutita%29.JPG,Downloaded
+Mayweed,Mayweed.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Tripleurospermum_perforatum_20041012_2572.jpg/960px-Tripleurospermum_perforatum_20041012_2572.jpg,Downloaded
+Silver Wattle,Silver_Wattle.jpg,https://static.inaturalist.org/photos/217847341/large.jpg,Downloaded
+Bailey's Acacia,Bailey_s_Acacia.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Acacia_baileyana.jpg/960px-Acacia_baileyana.jpg,Downloaded
+Brazilian Pepper Tree,Brazilian_Pepper_Tree.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Starr_041018-0009_Schinus_terebinthifolius.jpg/960px-Starr_041018-0009_Schinus_terebinthifolius.jpg,Downloaded
+California Pepper Tree,California_Pepper_Tree.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Starr_041018-0009_Schinus_terebinthifolius.jpg/960px-Starr_041018-0009_Schinus_terebinthifolius.jpg,Downloaded
+European Olive,European_Olive.jpg,https://upload.wikimedia.org/wikipedia/commons/8/84/Olivesfromjordan.jpg,Downloaded
+Oleander,Oleander.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nerium_oleander_flowers_leaves.jpg/960px-Nerium_oleander_flowers_leaves.jpg,Downloaded
+Lantana,Lantana.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/LantanaFlowerLeaves.jpg/960px-LantanaFlowerLeaves.jpg,Downloaded
+Bougainvillea,Bougainvillea.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bougainvillea_closeup.jpg/960px-Bougainvillea_closeup.jpg,Downloaded
+Field Bindweed,Field_Bindweed.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bindweed_%28Convolvulus_Arvensis%29_%283105112704%29.jpg/960px-Bindweed_%28Convolvulus_Arvensis%29_%283105112704%29.jpg,Downloaded
+Morning Glory,Morning_Glory.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ipomoea_tricolor_%27Heavenly_Blue%27.jpg/960px-Ipomoea_tricolor_%27Heavenly_Blue%27.jpg,Downloaded
+Dodder,Dodder.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Cuscuta_europaea_bgiu.jpg/960px-Cuscuta_europaea_bgiu.jpg,Downloaded
+Fountain Grass,Fountain_Grass.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Pennisetum_alopecuroides_-_Berlin_Botanical_Garden_-_IMG_8624.JPG/960px-Pennisetum_alopecuroides_-_Berlin_Botanical_Garden_-_IMG_8624.JPG,Downloaded
+African Lovegrass,African_Lovegrass.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Starr_050208-3897_Eragrostis_curvula.jpg/960px-Starr_050208-3897_Eragrostis_curvula.jpg,Downloaded
+Veldt Grass,Veldt_Grass.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Typical_Veld_near_Petrified_forest_%28Namibia%29.jpg/960px-Typical_Veld_near_Petrified_forest_%28Namibia%29.jpg,Downloaded
+Common Fig,Common_Fig.jpg,https://upload.wikimedia.org/wikipedia/commons/2/2e/Ficus_carica_L%2C_1771.jpg,Downloaded
+Tree Mallow,Tree_Mallow.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Malva-sylvestris-20070430-1.jpg/960px-Malva-sylvestris-20070430-1.jpg,Downloaded
+Pride of Madeira,Pride_of_Madeira.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Echium_candicans1311.jpg/960px-Echium_candicans1311.jpg,Downloaded
+Spanish Broom,Spanish_Broom.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Cytisus_scoparius_by_Danny_S._-_001.JPG/960px-Cytisus_scoparius_by_Danny_S._-_001.JPG,Downloaded
+French Broom,French_Broom.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Cytisus_scoparius_by_Danny_S._-_001.JPG/960px-Cytisus_scoparius_by_Danny_S._-_001.JPG,Downloaded
+Scotch Broom,Scotch_Broom.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Cytisus_scoparius_by_Danny_S._-_001.JPG/960px-Cytisus_scoparius_by_Danny_S._-_001.JPG,Downloaded
+Gorse,Gorse.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Whin_or_Gorse.JPG/960px-Whin_or_Gorse.JPG,Downloaded
+Australian Saltbush,Australian_Saltbush.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Starr_031007-2051_Atriplex_semibaccata.jpg/960px-Starr_031007-2051_Atriplex_semibaccata.jpg,Downloaded
+Russian Olive,Russian_Olive.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Korina_2012-05-15_Elaeagnus_angustifolia_1.jpg/960px-Korina_2012-05-15_Elaeagnus_angustifolia_1.jpg,Downloaded
+White Mulberry,White_Mulberry.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rosales_-_Morus_alba_-_3.jpg/960px-Rosales_-_Morus_alba_-_3.jpg,Downloaded
+Common Hawthorn,Common_Hawthorn.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hawthorn_fruit.JPG/960px-Hawthorn_fruit.JPG,Downloaded
+London Plane Tree,London_Plane_Tree.jpg,https://upload.wikimedia.org/wikipedia/commons/2/23/Berkeley_Square_-_geograph.org.uk_-_911963.jpg,Downloaded
+Canary Island Pine,Canary_Island_Pine.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Caldera_de_Taburiente_La_Palma.jpg/960px-Caldera_de_Taburiente_La_Palma.jpg,Downloaded
+Italian Cypress,Italian_Cypress.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CF%8C%CF%82_%CE%94%CF%81%CF%85%CE%BC%CF%8C%CF%82_%CE%A3%CE%B1%CE%BC%CE%B1%CF%81%CE%B9%CE%AC%CF%82.jpg/960px-%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CF%8C%CF%82_%CE%94%CF%81%CF%85%CE%BC%CF%8C%CF%82_%CE%A3%CE%B1%CE%BC%CE%B1%CF%81%CE%B9%CE%AC%CF%82.jpg,Downloaded
+Artichoke,Artichoke.jpg,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Sunroot_top.jpg/960px-Sunroot_top.jpg,Downloaded
